@@ -1,4 +1,4 @@
-package org.test.hellowebapp17;
+package org.test.hellowebapp_servlet;
 
 import java.io.*;
 
